@@ -58,13 +58,13 @@ serial.Port.prototype.connect = function () {
       var configurationInterfaces = this.device_.configuration.interfaces;
       configurationInterfaces.forEach((element) => {
         element.alternates.forEach((elementalt) => {
-          if (elementalt.interfaceClass == 0xff) {
+          if (elementalt.interfaceClass === 0xff) {
             this.interfaceNumber_ = element.interfaceNumber;
             elementalt.endpoints.forEach((elementendpoint) => {
-              if (elementendpoint.direction == "out") {
+              if (elementendpoint.direction === "out") {
                 this.endpointOut_ = elementendpoint.endpointNumber;
               }
-              if (elementendpoint.direction == "in") {
+              if (elementendpoint.direction === "in") {
                 this.endpointIn_ = elementendpoint.endpointNumber;
               }
             });
