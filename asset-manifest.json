@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WebUSB-Arduino-React.js/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/WebUSB-Arduino-React.js/static/js/main.ae0663b0.chunk.js",
+    "main.js.map": "/WebUSB-Arduino-React.js/static/js/main.ae0663b0.chunk.js.map",
+    "runtime-main.js": "/WebUSB-Arduino-React.js/static/js/runtime-main.cac8e8e8.js",
+    "runtime-main.js.map": "/WebUSB-Arduino-React.js/static/js/runtime-main.cac8e8e8.js.map",
+    "static/js/2.b78dba2b.chunk.js": "/WebUSB-Arduino-React.js/static/js/2.b78dba2b.chunk.js",
+    "static/js/2.b78dba2b.chunk.js.map": "/WebUSB-Arduino-React.js/static/js/2.b78dba2b.chunk.js.map",
+    "static/js/3.acf16a7d.chunk.js": "/WebUSB-Arduino-React.js/static/js/3.acf16a7d.chunk.js",
+    "static/js/3.acf16a7d.chunk.js.map": "/WebUSB-Arduino-React.js/static/js/3.acf16a7d.chunk.js.map",
+    "index.html": "/WebUSB-Arduino-React.js/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/WebUSB-Arduino-React.js/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b78dba2b.chunk.js.LICENSE.txt": "/WebUSB-Arduino-React.js/static/js/2.b78dba2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/WebUSB-Arduino-React.js/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cac8e8e8.js",
+    "static/js/2.b78dba2b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ae0663b0.chunk.js"
+  ]
+}
